@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=javafx.stage.Stage\ getVentana()
+comment3.params=ventana
+comment3.target=void\ menu(javafx.stage.Stage)
+numComments=4

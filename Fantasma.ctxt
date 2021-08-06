@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Fantasma
+comment1.params=x\ y\ nombreImagen\ animacionActual
+comment1.target=Fantasma(int,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=tile\ tile2
+comment10.target=void\ mover(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=void\ inicializarAnimaciones()
+comment3.params=graficos
+comment3.target=void\ pintar(javafx.scene.canvas.GraphicsContext)
+comment4.params=t
+comment4.target=void\ calcularFrame(double)
+comment5.params=
+comment5.target=javafx.scene.shape.Rectangle\ obtenerRectangulo()
+comment6.params=tile
+comment6.target=boolean\ verificarColision(java.util.ArrayList)
+comment7.params=
+comment7.target=void\ detener()
+comment8.params=
+comment8.target=int\ numAleatorio()
+comment9.params=num
+comment9.target=int\ verificarDireccionFantasma(int)
+numComments=11

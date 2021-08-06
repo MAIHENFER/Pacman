@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Personaje
+comment1.params=x\ y\ nombreImagen\ animacionActual
+comment1.target=Personaje(int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=graficos
+comment2.target=void\ pintar(javafx.scene.canvas.GraphicsContext)
+comment3.params=
+comment3.target=javafx.scene.shape.Rectangle\ obtenerRectangulo()
+comment4.params=t
+comment4.target=void\ calcularFrame(double)
+comment5.params=tile
+comment5.target=boolean\ verificarColision(java.util.ArrayList)
+comment6.params=
+comment6.target=void\ inicializarAnimaciones()
+comment7.params=tile\ tile2
+comment7.target=void\ mover(java.util.ArrayList,\ java.util.ArrayList)
+comment8.params=
+comment8.target=java.lang.String\ getAnimacionActual()
+comment9.params=animacionActual
+comment9.target=void\ setAnimacionActual(java.lang.String)
+numComments=10

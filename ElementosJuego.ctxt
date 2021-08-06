@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ElementosJuego
+comment1.params=x\ y\ nombreImagen
+comment1.target=ElementosJuego(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=x
+comment3.target=void\ setX(int)
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=y
+comment5.target=void\ setY(int)
+comment6.params=
+comment6.target=java.lang.String\ getNombreImagen()
+comment7.params=nombreImagen
+comment7.target=void\ setNombreImagen(java.lang.String)
+comment8.params=graficos
+comment8.target=void\ pintar(javafx.scene.canvas.GraphicsContext)
+comment9.params=
+comment9.target=javafx.scene.shape.Rectangle\ obtenerRectangulo()
+numComments=10

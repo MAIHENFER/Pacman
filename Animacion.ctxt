@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animacion
+comment1.params=duracion\ coordenadas
+comment1.target=Animacion(double,\ javafx.scene.shape.Rectangle[])
+comment2.params=
+comment2.target=double\ getDuracion()
+comment3.params=duracion
+comment3.target=void\ setDuracion(int)
+comment4.params=
+comment4.target=javafx.scene.shape.Rectangle[]\ getCoordenadas()
+comment5.params=coordenadas
+comment5.target=void\ setCoordenadas(javafx.scene.shape.Rectangle[])
+comment6.params=t
+comment6.target=javafx.scene.shape.Rectangle\ calcularFrameActual(double)
+numComments=7

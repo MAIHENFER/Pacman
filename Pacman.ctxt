@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Pacman
+comment1.params=x\ y\ puntos\ nombreImagen\ animacionActual\ vidas
+comment1.target=Pacman(int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=fant1\ fant2\ fant3\ fant4
+comment10.target=boolean\ verificarColisionesFantasmas(Fantasma,\ Fantasma,\ Fantasma,\ Fantasma)
+comment11.params=graficos
+comment11.target=void\ pintar(javafx.scene.canvas.GraphicsContext)
+comment12.params=tile\ tile2
+comment12.target=void\ mover(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getVidas()
+comment3.params=
+comment3.target=int\ getPuntos()
+comment4.params=puntos
+comment4.target=void\ setPuntos(int)
+comment5.params=
+comment5.target=void\ inicializarAnimaciones()
+comment6.params=t
+comment6.target=void\ calcularFrame(double)
+comment7.params=
+comment7.target=javafx.scene.shape.Rectangle\ obtenerRectangulo()
+comment8.params=tile
+comment8.target=boolean\ verificarColision(java.util.ArrayList)
+comment9.params=tile
+comment9.target=boolean\ verificarColisionEsfera(java.util.ArrayList)
+numComments=13
