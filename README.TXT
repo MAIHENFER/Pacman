@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Proyecto pacman de la universidad, programado con javafx, tiene fallas
+pero funciona
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Pacman
+HOW TO START THIS PROJECT: Se inicia desde la clase main haciendo correr el javafx
+AUTHORS: Mairon, Angel, Kevin
